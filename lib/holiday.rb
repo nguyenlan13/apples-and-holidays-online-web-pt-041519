@@ -57,7 +57,7 @@ def all_winter_holiday_supplies(holiday_hash)
       a << supply
     end
   end
-  holiday_hash
+  a
 
 end
 
